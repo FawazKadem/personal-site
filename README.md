@@ -1,2 +1,2 @@
 # personal-site
-My personal website. Hosted at [fawazm.me](https://fawazm.me)
+My personal website. Hosted at <a href="http://fawazm.me/" target="_blank">fawazm.me</a>
